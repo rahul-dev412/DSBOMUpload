@@ -1,5 +1,5 @@
 # For making HTTP requests to Dependency-Track API
-requests==2.31.0
+requests==2.33.0
 
 # For optional pretty console output
 rich==13.7.0
